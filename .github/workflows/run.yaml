@@ -6,8 +6,8 @@ on:
       - main
 
 env:
-  REGION: us-east4
-  REPOSITORY_NAME: my-repo
+  REGION: us-east1
+  REPOSITORY_NAME: git-actions-lab4-ar
 
 jobs:
   build-and-deploy:
